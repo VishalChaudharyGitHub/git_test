@@ -4,7 +4,7 @@ function Login() {
   return (
     <>
     <div>Login Component</div>
-    <p>Welecome Ethen</p>
+    <p>Welecome Ethen Hunt</p>
     </>
   )
 }
